@@ -1,0 +1,6 @@
+header line
+row0,88
+row1,79
+row2,7
+row3,97
+row4,64
